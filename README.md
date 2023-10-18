@@ -6,6 +6,6 @@ Por lo tanto, mediante peticiones HTTP permite desde el fronted el registro de u
 
 Cuenta con los endpoint de login, registro y la seccion de la tabla donde puede administar todos los usuarios registrados
 
-cuenta con autorizacion por token y contraseñas cifradas
+cuenta con autorización por token y contraseñas cifradas
 
-adicionalmente tiene documentaciojn mediante Swagger
+adicionalmente tiene documentación mediante Swagger
